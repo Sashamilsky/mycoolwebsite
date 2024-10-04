@@ -3,16 +3,20 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/IMG_0555.jpeg
 ---
 
 :::{#me}
 
 ## Goals
+**I hope to share my passions with others around me!**
 
 ## Education
+**B.S in Biology from Union College** 
+**M.S Student in Marine Biology at University of New Hampshire**
 
 ## Experience
+**Diamondback terrapins, cold-stun sea turtles, right whale feeding behavior, oysters, green crabs, permaculture farm, winter flounder, eDNA**
 
 :::
 
